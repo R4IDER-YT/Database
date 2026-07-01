@@ -16,5 +16,11 @@
         "key": "RAiDER",
         "expirydate": "31-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bb4416d76bf8bcf6",
+        "key": "VIP-USER1-MONTH",
+        "expirydate": "01-04-2026",
+        "Allowoffline": true
     }
 ]
