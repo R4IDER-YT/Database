@@ -40,5 +40,11 @@
         "key": "VIP-USER4-MONTH",
         "expirydate": "31-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1aa13756be802ef7",
+        "key": "VIP-USER5-MONTH",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
     }
 ]
