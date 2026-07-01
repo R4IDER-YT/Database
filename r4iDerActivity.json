@@ -46,5 +46,11 @@
         "key": "VIP-USER5-MONTH",
         "expirydate": "31-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "edd26cdcfa125146",
+        "key": "VIP-USER6-MONTH",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
     }
 ]
