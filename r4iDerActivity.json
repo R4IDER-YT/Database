@@ -70,5 +70,11 @@
         "key": "VIP-USER9-MONTH",
         "expirydate": "02-08-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "706b8b462ff5961c",
+        "key": "Abol",
+        "expirydate": "02-08-9999",
+        "Allowoffline": true
     }
 ]
