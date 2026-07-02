@@ -14,13 +14,13 @@
     {
         "device_id": "1d6f688d49dcf2ef",
         "key": "RAiDER",
-        "expirydate": "31-12-9999",
+        "expirydate": "99-99-9999",
         "Allowoffline": true
     },
     {
         "device_id": "bb4416d76bf8bcf6",
         "key": "VIP-USER1-MONTH",
-        "expirydate": "31-12-9999",
+        "expirydate": "01-08-2026",
         "Allowoffline": true
     },
     {
@@ -31,13 +31,13 @@
     },
     {
         "device_id": "37ebdde1956bd1d4",
-        "key": "VIP-USER3-MONTH",
+        "key": "Baluch",
         "expirydate": "31-12-9999",
         "Allowoffline": true
     },
     {
         "device_id": "6c32bf59bbe1e306",
-        "key": "VIP-USER4-MONTH",
+        "key": "Lord",
         "expirydate": "31-12-9999",
         "Allowoffline": true
     },
@@ -50,25 +50,25 @@
     {
         "device_id": "edd26cdcfa125146",
         "key": "VIP-USER6-MONTH",
-        "expirydate": "31-12-9999",
+        "expirydate": "01-08-2026",
         "Allowoffline": true
     },
     {
         "device_id": "51beaad2204670a5",
         "key": "VIP-USER7-MONTH",
-        "expirydate": "31-12-9999",
+        "expirydate": "02-08-2026",
         "Allowoffline": true
     },
     {
         "device_id": "62fee3e128cee08d",
         "key": "VIP-USER8-MONTH",
-        "expirydate": "99-99-9999",
+        "expirydate": "31-12-9999",
         "Allowoffline": true
     },
     {
         "device_id": "8acd95300b3b40d2",
         "key": "VIP-USER9-MONTH",
-        "expirydate": "01-12-9999",
+        "expirydate": "02-08-9999",
         "Allowoffline": true
     }
 ]
