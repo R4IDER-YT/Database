@@ -130,5 +130,11 @@
         "key": "AmirTurk",
         "expirydate": "03-08-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b73a1885899de3a0",
+        "key": "ShingilAbad",
+        "expirydate": "03-08-9999",
+        "Allowoffline": true
     }
 ]
