@@ -142,5 +142,11 @@
         "key": "ali",
         "expirydate": "03-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bd245fc74813b5e9",
+        "key": "MM",
+        "expirydate": "15-08-2026",
+        "Allowoffline": true
     }
 ]
