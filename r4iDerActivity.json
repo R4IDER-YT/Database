@@ -148,5 +148,11 @@
         "key": "MM",
         "expirydate": "15-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c3709836389893f1",
+        "key": "DHY-JIN-BOR",
+        "expirydate": "15-08-2026",
+        "Allowoffline": true
     }
 ]
