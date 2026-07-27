@@ -154,5 +154,11 @@
         "key": "DHY-JIN-BOR",
         "expirydate": "15-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "59191caf35ac296a",
+        "key": "GODUMP",
+        "expirydate": "27-08-2026",
+        "Allowoffline": true
     }
 ]
