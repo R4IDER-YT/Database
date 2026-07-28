@@ -160,5 +160,11 @@
         "key": "GODUMP",
         "expirydate": "27-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0ec01208a260ae5c",
+        "key": "AboliEshq",
+        "expirydate": "28-08-2026",
+        "Allowoffline": true
     }
 ]
