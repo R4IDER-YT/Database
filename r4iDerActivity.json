@@ -172,5 +172,11 @@
         "key": "ZYROX-VIP-63",
         "expirydate": "30-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "baa98e715b8dd202",
+        "key": "ZYROX-VIP-64",
+        "expirydate": "30-08-2026",
+        "Allowoffline": true
     }
 ]
