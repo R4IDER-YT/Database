@@ -166,5 +166,11 @@
         "key": "AboliEshq",
         "expirydate": "28-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9210a513ac3ed6a8",
+        "key": "ZYROX-VIP-63",
+        "expirydate": "30-08-2026",
+        "Allowoffline": true
     }
 ]
