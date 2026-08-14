@@ -178,5 +178,11 @@
         "key": "ZYROX-VIP-64",
         "expirydate": "30-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c5031fd81980625a",
+        "key": "Vlone",
+        "expirydate": "30-08-9999",
+        "Allowoffline": true
     }
 ]
