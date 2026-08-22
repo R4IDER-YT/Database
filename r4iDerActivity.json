@@ -190,5 +190,11 @@
         "key": "New-User",
         "expirydate": "20-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "da706a92cc98da74",
+        "key": "New-Kos",
+        "expirydate": "23-09-2026",
+        "Allowoffline": true
     }
 ]
