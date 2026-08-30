@@ -202,5 +202,11 @@
         "key": "Sorena",
         "expirydate": "27-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "64a63dd4a9788d9f",
+        "key": "xxx-user",
+        "expirydate": "30-10-2026",
+        "Allowoffline": true
     }
 ]
