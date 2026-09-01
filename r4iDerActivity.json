@@ -208,5 +208,11 @@
         "key": "xxx-user",
         "expirydate": "30-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1513cd8f37b92a0d",
+        "key": "xxx-newuser",
+        "expirydate": "15-10-2026",
+        "Allowoffline": true
     }
 ]
