@@ -214,5 +214,17 @@
         "key": "xxx-newuser",
         "expirydate": "15-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8123b3a673e57b30",
+        "key": "xxx-newuser2",
+        "expirydate": "05-11-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "217ee1834f183c39",
+        "key": "xxx-newuser3",
+        "expirydate": "05-12-2026",
+        "Allowoffline": true
     }
 ]
