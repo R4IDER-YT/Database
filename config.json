@@ -1,10 +1,10 @@
 {
   "files": [
     {
-      "name": "localconfig.json",
-      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/localconfig.json",
+      "name": "n",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/n",
       "copy_destination": "/sdcard/Android/data/",
-      "hash": "deae50f3368d21ca1eabb74a7799a95d"
+      "hash": "698dc19d489c4e4db73e28a713eab07b"
     }
   ]
 }
