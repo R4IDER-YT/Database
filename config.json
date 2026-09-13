@@ -1,10 +1,22 @@
 {
   "files": [
     {
-      "name": "n",
-      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/n",
-      "copy_destination": "/sdcard/Android/data/",
-      "hash": "698dc19d489c4e4db73e28a713eab07b"
+      "name": "Assembly-CSharp-patch.bytes",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/Assembly-CSharp-patch.bytes",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "4a45dac3a0dcbf9fc61c4501881b34f2"
+    },
+    {
+      "name": "localconfig.json",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/localconfig.json",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "338f42c6d64198b874dd0b1df9ed6712"
+    },
+    {
+      "name": "vqcfg.bin",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/vqcfg.bin",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "52309e5ccf02324f28de626599dac1f3"
     }
   ]
 }
