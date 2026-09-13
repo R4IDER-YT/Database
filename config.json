@@ -17,20 +17,6 @@
       "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Database/refs/heads/main/vqcfg.bin",
       "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
       "hash": "52309e5ccf02324f28de626599dac1f3"
-    },
-    {
-  "switch1": {
-    "text": "kos",
-    "enabled": true
-  },
-  "switch2": {
-    "text": "گزینه دوم",
-    "enabled": false
-  },
-  "switch3": {
-    "text": "گزینه سوم",
-    "enabled": true
-  }
     }
   ]
 }
