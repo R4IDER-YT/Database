@@ -1,0 +1,14 @@
+{
+  "switch1": {
+    "text": "Rs",
+    "enabled": true
+  },
+  "switch2": {
+    "text": "Rd",
+    "enabled": false
+  },
+  "switch3": {
+    "text": "Rx",
+    "enabled": true
+  }
+}
