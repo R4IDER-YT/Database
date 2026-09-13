@@ -1,14 +1,14 @@
 {
   "switch1": {
-    "text": "Rs",
-    "enabled": true
+    "text": "Aim Bot",
+    "enabled": false
   },
   "switch2": {
-    "text": "Rd",
+    "text": "Esp Box",
     "enabled": false
   },
   "switch3": {
-    "text": "Rx",
-    "enabled": true
+    "text": "ßypass",
+    "enabled": false
   }
 }
