@@ -35,6 +35,7 @@
 
   "inject_switch1": [
     "localconfig.json",
+    "Assembly-CSharp-patch.bytes",
     "vqcfg.bin"
   ],
   "inject_switch2": [
