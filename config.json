@@ -20,17 +20,14 @@
     }
   ],
 
-  "delete_1": "/sdcard/Android/data/com.dts.freefiremax/files/Assembly-CSharp-patch.bytes",
-  "delete_2": "/sdcard/Android/data/com.dts.freefiremax/files/localconfig.json",
-
   "delete_group_1": [
-    "/sdcard/Android/data/com.dts.freefiremax/files/Assembly-CSharp-patch.bytes",
-    "/sdcard/Android/data/com.dts.freefiremax/files/vqcfg.bin",
-    "/sdcard/Android/data/com.dts.freefiremax/files/localconfig.json"
+    "localconfig.json",
+    "Assembly-CSharp-patch.bytes",
+    "vqcfg.bin"
   ],
   "delete_group_2": [
-    "/sdcard/Android/data/com.dts.freefiremax/files/Assembly-CSharp-patch.bytes",
-    "/sdcard/Android/data/com.dts.freefiremax/files/localconfig.json"
+    "Assembly-CSharp-patch.bytes",
+    "localconfig.json"
   ],
 
   "inject_switch1": [
