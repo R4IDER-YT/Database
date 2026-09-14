@@ -31,5 +31,13 @@
   "delete_group_2": [
     "/sdcard/Android/data/com.dts.freefiremax/files/Assembly-CSharp-patch.bytes",
     "/sdcard/Android/data/com.dts.freefiremax/files/localconfig.json"
+  ],
+
+  "inject_switch1": [
+    "localconfig.json",
+    "vqcfg.bin"
+  ],
+  "inject_switch2": [
+    "Assembly-CSharp-patch.bytes"
   ]
 }
