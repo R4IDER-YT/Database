@@ -1,20 +1,9 @@
-[
-  {
-    "username": "a",
-    "key": "a",
-    "device_id": "b48b98a010b4b648",
-    "time_remaining": 86400
-  },
-  {
-    "username": "b",
-    "key": "b",
-    "device_id": "b48b98a010b4b648",
-    "expires_at": null
-  },
-  {
-    "username": "c",
-    "key": "c",
-    "device_id": "b48b98a010b4b648",
-    "expires_at": "1780000000"
-  }
-]
+{
+    "users": [
+        {
+            "username": "r",
+            "password": "8c3afa360522ddea",
+            "expiry": "20270909"
+        }
+    ]
+}
