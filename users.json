@@ -1,19 +1,19 @@
 [
   {
-    "username": "user1",
-    "key": "zyrox-key-01",
-    "device_id": "",
+    "username": "a",
+    "key": "a",
+    "device_id": "b48b98a010b4b648",
     "time_remaining": 86400
   },
   {
-    "username": "user2",
-    "key": "zyrox-key-02",
-    "device_id": "8a7f9b21c4e01234",
+    "username": "b",
+    "key": "b",
+    "device_id": "b48b98a010b4b648",
     "expires_at": null
   },
   {
-    "username": "vip_user",
-    "key": "vip-secret-key",
+    "username": "c",
+    "key": "c",
     "device_id": "b48b98a010b4b648",
     "expires_at": "1780000000"
   }
