@@ -1,6 +1,20 @@
-{
-  "ok": true,
-  "key": "RAiDER",
-  "device_id": "b48b98a010b4b648",
-  "expires_at": 1790000000
-}
+[
+  {
+    "username": "user1",
+    "key": "zyrox-key-01",
+    "device_id": "",
+    "time_remaining": 86400
+  },
+  {
+    "username": "user2",
+    "key": "zyrox-key-02",
+    "device_id": "8a7f9b21c4e01234",
+    "expires_at": null
+  },
+  {
+    "username": "vip_user",
+    "key": "vip-secret-key",
+    "device_id": "b48b98a010b4b648",
+    "expires_at": "1780000000"
+  }
+]
